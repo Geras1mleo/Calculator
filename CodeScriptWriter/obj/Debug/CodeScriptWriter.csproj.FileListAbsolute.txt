@@ -1,0 +1,7 @@
+C:\Users\geras\source\repos\CodeScriptWriter\CodeScriptWriter\bin\Debug\CodeScriptWriter.exe.config
+C:\Users\geras\source\repos\CodeScriptWriter\CodeScriptWriter\bin\Debug\CodeScriptWriter.exe
+C:\Users\geras\source\repos\CodeScriptWriter\CodeScriptWriter\bin\Debug\CodeScriptWriter.pdb
+C:\Users\geras\source\repos\CodeScriptWriter\CodeScriptWriter\obj\Debug\CodeScriptWriter.csproj.CoreCompileInputs.cache
+C:\Users\geras\source\repos\CodeScriptWriter\CodeScriptWriter\obj\Debug\CodeScriptWriter.exe
+C:\Users\geras\source\repos\CodeScriptWriter\CodeScriptWriter\obj\Debug\CodeScriptWriter.pdb
+C:\Users\geras\source\repos\CodeScriptWriter\CodeScriptWriter\obj\Debug\CodeScriptWriter.csprojAssemblyReference.cache
